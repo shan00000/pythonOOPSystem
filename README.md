@@ -8,7 +8,7 @@ However, to explore these programming concepts, an e-retails system for a toy sh
 
 •	ability to browse products. <br />
 •	ability to search for products. <br /> 
-•	ability to review products. <br />
+•	ability to see product reviews. <br />
 
 ### Functional Requirements of the system:
 
