@@ -1,4 +1,4 @@
-# myFirstPythonProject
+# Python OOP system
 
 ## The main objectives of the project
 The project's idea is to learn various design and implementation methods such as OOP, abstraction, encapsulation, inheritance, and polymorphism. It does not to provide a specific application. In particular, the project is designed to explore OOP design's capabilities. 
